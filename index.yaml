@@ -1,0 +1,35 @@
+apiVersion: v1
+entries:
+  devportal-charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-21T00:23:25.998660336-03:00"
+    description: A Helm chart for Kubernetes
+    digest: bd6b4e9c2ccea46930fda3a2e84f7988dddc2e1c3561869643668ceaa68bcd73
+    name: devportal-charts
+    type: application
+    urls:
+    - devportal.tgz
+    version: 0.1.0
+  veecode:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-21T00:23:25.999127237-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 4efda665e9cff9ee2689256cee060e9d1000426ec6f0ebecae0ecd1dee28374f
+    name: veecode
+    type: application
+    urls:
+    - charts/veecode-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-21T00:23:25.999609653-03:00"
+    description: A Helm chart for Kubernetes
+    digest: bc86b0b32254d600ad256e75e706aab9a5a308f67eda9fdeef74187addd2adb1
+    name: veecode
+    type: application
+    urls:
+    - docs/veecode-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-21T00:23:25.997790893-03:00"
